@@ -40,8 +40,9 @@ But i also think people will trust you more if you ask them to enter a thing in 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mewzax/Discord-Console-Stealer">
 </p>
 
-
-*Leave a ⭐ if you like this repo*
+<p align="center"> 
+</b>Leave a ⭐ if you like this repo</b>
+</p>
 
 
 
