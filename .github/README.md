@@ -31,6 +31,8 @@ Using Avatar changer can get the account phone locked
 It's cool to prank your friends or to get your infos easily, but not to really steal accounts.
 But i also think people will trust you more if you ask them to enter a thing in console than if you send them an exe 💀
 
+---
+
 <p align="center"> 
     <b>Informations</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Mewzax/Discord-Console-Stealer?style=social">
