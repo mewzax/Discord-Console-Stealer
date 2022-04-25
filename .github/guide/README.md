@@ -1,4 +1,4 @@
-Bruh bruh bruh bruh Discord is now closing consoles
+Bruh bruh bruh bruh Discord is now closing dev tools
 
 You must edit settings of discord
 
