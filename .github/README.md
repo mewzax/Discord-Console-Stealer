@@ -7,4 +7,4 @@
 
 ## Preview
 
-<img src="./capture.png">
+<img src="./Capture.PNG">
