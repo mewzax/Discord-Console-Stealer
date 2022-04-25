@@ -39,7 +39,7 @@ But i also think people will trust you more if you ask them to enter a thing in 
 </p>
 
 
-<h5 align="center">*Leave a ⭐ if you like this repo*</h5>
+*Leave a ⭐ if you like this repo*
 
 
 
