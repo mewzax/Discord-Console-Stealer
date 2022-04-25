@@ -24,7 +24,7 @@
 
 ## My opinion
 
-It's cool to prank your friends or to get your infos easily, but not to really steal accounts
+It's cool to prank your friends or to get your infos easily, but not to really steal accounts.
 But i also think people will trust you more if you ask them to enter a thing in console than if you send them an exe 💀
 
 > Thanks to https://github.com/Stanley-GF/PirateStealer I was too busy to do badges part
