@@ -22,6 +22,10 @@
 - Paste in console
 - Enter and Boom
 
+## Warning
+
+Using Avatar changer can get the account phone locked
+
 ## My opinion
 
 It's cool to prank your friends or to get your infos easily, but not to really steal accounts.
