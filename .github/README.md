@@ -1,3 +1,7 @@
+> **Warning**
+>
+> Discord patched xmlhttprequest and I don't know how to bypass, sorry, if you know, open a PR
+
 <h1 align="center">Discord Console Stealer</h1>
 <p align="center">
 <img src="./logo.png">
